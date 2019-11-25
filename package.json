@@ -1,0 +1,19 @@
+{
+  "name": "crypto-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prasang Biyani",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "7.1.2",
+    "electron-reload": "^1.5.0"
+  },
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
